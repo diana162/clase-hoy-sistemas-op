@@ -1,0 +1,15 @@
+C:\Users\Alumno\Desktop\so162-s07memorymgt-master\so162-s07memorymgt-master\MemoryManagement\bin\Debug\MemoryManagement.exe.config
+C:\Users\Alumno\Desktop\so162-s07memorymgt-master\so162-s07memorymgt-master\MemoryManagement\bin\Debug\MemoryManagement.exe
+C:\Users\Alumno\Desktop\so162-s07memorymgt-master\so162-s07memorymgt-master\MemoryManagement\bin\Debug\MemoryManagement.pdb
+C:\Users\Alumno\Desktop\so162-s07memorymgt-master\so162-s07memorymgt-master\MemoryManagement\bin\Debug\MemoryManagement.xml
+C:\Users\Alumno\Desktop\so162-s07memorymgt-master\so162-s07memorymgt-master\MemoryManagement\obj\Debug\s07memorymgt.vbprojResolveAssemblyReference.cache
+C:\Users\Alumno\Desktop\so162-s07memorymgt-master\so162-s07memorymgt-master\MemoryManagement\obj\Debug\MemoryManagement.InfoProceso.resources
+C:\Users\Alumno\Desktop\so162-s07memorymgt-master\so162-s07memorymgt-master\MemoryManagement\obj\Debug\MemoryManagement.Resources.resources
+C:\Users\Alumno\Desktop\so162-s07memorymgt-master\so162-s07memorymgt-master\MemoryManagement\obj\Debug\MemoryManagement.ParticionDinamica.resources
+C:\Users\Alumno\Desktop\so162-s07memorymgt-master\so162-s07memorymgt-master\MemoryManagement\obj\Debug\MemoryManagement.ParticionDinamicaCfg.resources
+C:\Users\Alumno\Desktop\so162-s07memorymgt-master\so162-s07memorymgt-master\MemoryManagement\obj\Debug\MemoryManagement.ParticionFija.resources
+C:\Users\Alumno\Desktop\so162-s07memorymgt-master\so162-s07memorymgt-master\MemoryManagement\obj\Debug\MemoryManagement.ParticionFijaCfg.resources
+C:\Users\Alumno\Desktop\so162-s07memorymgt-master\so162-s07memorymgt-master\MemoryManagement\obj\Debug\s07memorymgt.vbproj.GenerateResource.Cache
+C:\Users\Alumno\Desktop\so162-s07memorymgt-master\so162-s07memorymgt-master\MemoryManagement\obj\Debug\MemoryManagement.exe
+C:\Users\Alumno\Desktop\so162-s07memorymgt-master\so162-s07memorymgt-master\MemoryManagement\obj\Debug\MemoryManagement.xml
+C:\Users\Alumno\Desktop\so162-s07memorymgt-master\so162-s07memorymgt-master\MemoryManagement\obj\Debug\MemoryManagement.pdb
